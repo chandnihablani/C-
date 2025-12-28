@@ -1,4 +1,4 @@
-// Tough Program: Password Strength Checker
+// Password Strength Checker
 #include <iostream>
 using namespace std;
 
@@ -26,4 +26,5 @@ int main() {
     else
         cout << "Weak Password";
 }
+
 
